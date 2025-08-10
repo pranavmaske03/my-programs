@@ -1,0 +1,11 @@
+# Compiled class files
+*.class
+
+# Scala / Java build output directories
+/out/
+/target/
+/bin/
+
+# IDE settings
+.idea/
+.vscode/
